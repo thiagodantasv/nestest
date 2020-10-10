@@ -1,4 +1,4 @@
-<p>i have separated this project only to for trying somethings that cross my mind</p>
+<p>i have separated this project only for trying somethings that cross my mind</p>
 <p> (= </p>
 
 ## Installation
